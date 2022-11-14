@@ -3,10 +3,11 @@ h1 {
   padding: 10px;
 }
 
-p {
+p, h3 {
   color: #2D3142;
   margin: 4px;
-  padding: 10px;
+  padding: 8px;
+  margin-left: 10px;
 }
 
 .new_question {
